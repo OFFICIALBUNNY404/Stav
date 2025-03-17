@@ -1,6 +1,3 @@
-Berikut adalah contoh README untuk program STAV:
-
-
 ---
 
 STAV Protection 🚀
