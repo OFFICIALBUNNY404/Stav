@@ -84,7 +84,7 @@ def main():
         print(Fore.GREEN + "        4. Scan multiple URLs from a file")
         print(Fore.RED + "        5. Exit")
         print(Fore.MAGENTA + "=" * 60)
-        choice = input(Fore.CYAN + "        Enter your choice (1/2/3/4/5): ").strip()
+        choice = input(Fore.CYAN + "        Enter your choice: ").strip()
 
         if choice == "1":
             command = input(Fore.CYAN + "Enter the command to analyze: ").strip()
